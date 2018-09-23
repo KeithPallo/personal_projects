@@ -18,15 +18,14 @@ team also detailed an action plan to use results from both systems which would
 accomplish our overall object of allowing a user to create a definition
 of malicious content based on selection of images. This method would be far
 more accurate than selecting specific categories or terms laid out by
-providers, which is one of the major advantages of machine learning. 
+providers, which is one of the major advantages of machine learning.
 
 
 A great place to get a high level overview of the project is the presentation
 pdf found in this repository.
 
-Also, please visit our team's [official blog post](https://techblog.appnexus.
-com/malicious-content-identification-f0c0359b5c75) on AppNexus' main tech blog
-to learn further about project ideation, implementation, and challenges faced
+Also, please visit our team's [official blog post](https://techblog.appnexus.com/malicious-content-identification-f0c0359b5c75) 
+on AppNexus' main tech blog to learn further about project ideation, implementation, and challenges faced
 along the way.
 
 ---
